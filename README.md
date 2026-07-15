@@ -1,9 +1,9 @@
-# Laiba Badar Web
+# Moved → [laibabadar](https://github.com/badrpk/laibabadar)
 
-Brand marketing website for laibabadar.com (menus, story, SEO) — not the Android delivery app.
+This project was **merged** into a single public monorepo for easier download and contribution.
 
-```bash
-npm start
-```
+**Canonical repo:** https://github.com/badrpk/laibabadar
 
-See [PORTFOLIO.md](PORTFOLIO.md).
+Brand site → `apps/brand-site`
+
+Please open issues and PRs on the monorepo. This repository remains as a redirect for old links.
